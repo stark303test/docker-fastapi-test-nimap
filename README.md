@@ -4,6 +4,6 @@
 
 2. Install docker & docker compose
 
-3. To run containers ```bash docker-compose up --build -d```
+3. To run containers ``` bash docker-compose up --build -d```
 
-4. To down containers ```bash docker-compose down```
+4. To down containers ``` bash docker-compose down```
